@@ -1,0 +1,243 @@
+{
+    "deckName":"White Deck"
+    ,"cards":[{
+        "cardName":"Plains"
+        ,"multiverseID":73963
+    }
+    ,{
+        "cardName":"Plains"
+        ,"multiverseID":8325
+    }
+    ,{
+        "cardName":"Plains"
+        ,"multiverseID":8354
+    }
+    ,{
+        "cardName":"Plains"
+        ,"multiverseID":439601
+    }
+    ,{
+        "cardName":"Plains"
+        ,"multiverseID":95115
+    }
+    ,{
+        "cardName":"Plains"
+        ,"multiverseID":31630
+    }
+    ,{
+        "cardName":"Plains"
+        ,"multiverseID":8354
+    }
+    ,{
+        "cardName":"Plains"
+        ,"multiverseID":439601
+    }
+    ,{
+        "cardName":"Plains"
+        ,"multiverseID":143620
+    }
+    ,{
+        "cardName":"Plains"
+        ,"multiverseID":9680
+    }
+    ,{
+        "cardName":"Plains"
+        ,"multiverseID":8354
+    }
+    ,{
+        "cardName":"Plains"
+        ,"multiverseID":73963
+    }
+    ,{
+        "cardName":"Plains"
+        ,"multiverseID":409616
+    }
+    ,{
+        "cardName":"Serra Angel"
+        ,"multiverseID":438596
+    }
+    ,{
+        "cardName":"Serra Angel"
+        ,"multiverseID":566
+    }
+    ,{
+        "cardName":"Serra Angel"
+        ,"multiverseID":401641
+    }
+    ,{
+        "cardName":"Swords to Plowshares"
+        ,"multiverseID":383119
+    }
+    ,{
+        "cardName":"Swords to Plowshares"
+        ,"multiverseID":21172
+    }
+    ,{
+        "cardName":"Swords to Plowshares"
+        ,"multiverseID":373334
+    }
+    ,{
+        "cardName":"Swords to Plowshares"
+        ,"multiverseID":567
+    }
+    ,{
+        "cardName":"Raise the Alarm"
+        ,"multiverseID":385912
+    }
+    ,{
+        "cardName":"Raise the Alarm"
+        ,"multiverseID":394469
+    }
+    ,{
+        "cardName":"Raise the Alarm"
+        ,"multiverseID":48103
+    }
+    ,{
+        "cardName":"Raise the Alarm"
+        ,"multiverseID":385912
+    }
+    ,{
+        "cardName":"Empyrial Armor"
+        ,"multiverseID":382923
+    }
+    ,{
+        "cardName":"Angel's Grace"
+        ,"multiverseID":110504
+    }
+    ,{
+        "cardName":"Clergy of the Holy Nimbus"
+        ,"multiverseID":1604
+    }
+    ,{
+        "cardName":"Humble"
+        ,"multiverseID":5702
+    }
+    ,{
+        "cardName":"Humble"
+        ,"multiverseID":5702
+    }
+    ,{
+        "cardName":"Wrath of God"
+        ,"multiverseID":413580
+    }
+    ,{
+        "cardName":"Disenchant"
+        ,"multiverseID":4872
+    }
+    ,{
+        "cardName":"Disenchant"
+        ,"multiverseID":545
+    }
+    ,{
+        "cardName":"Thoughtweft Trio"
+        ,"multiverseID":140232
+    }
+    ,{
+        "cardName":"Zhalfirin Knight"
+        ,"multiverseID":3525
+    }
+    ,{
+        "cardName":"Ramosian Lieutenant"
+        ,"multiverseID":19543
+    }
+    ,{
+        "cardName":"Reprisal"
+        ,"multiverseID":380480
+    }
+    ,{
+        "cardName":"Reprisal"
+        ,"multiverseID":3209
+    }
+    ,{
+        "cardName":"Consecrate Land"
+        ,"multiverseID":541
+    }
+    ,{
+        "cardName":"Healing Salve"
+        ,"multiverseID":253
+    }
+    ,{
+        "cardName":"Darien, King of Kjeldor"
+        ,"multiverseID":122049
+    }
+    ,{
+        "cardName":"Darien, King of Kjeldor"
+        ,"multiverseID":122049
+    }
+    ,{
+        "cardName":"Veteran Armorer"
+        ,"multiverseID":370361
+    }
+    ,{
+        "cardName":"Veteran Armorer"
+        ,"multiverseID":370361
+    }
+    ,{
+        "cardName":"Veteran Armorer"
+        ,"multiverseID":370361
+    }
+    ,{
+        "cardName":"Veteran Swordsmith"
+        ,"multiverseID":190194
+    }
+    ,{
+        "cardName":"Veteran Swordsmith"
+        ,"multiverseID":190194
+    }
+    ,{
+        "cardName":"Kjeldoran Outpost"
+        ,"multiverseID":3233
+    }
+    ,{
+        "cardName":"Kjeldoran Outpost"
+        ,"multiverseID":3233
+    }
+    ,{
+        "cardName":"Decree of Justice"
+        ,"multiverseID":394359
+    }
+    ,{
+        "cardName":"Decree of Justice"
+        ,"multiverseID":45141
+    }
+    ,{
+        "cardName":"Aysen Crusader"
+        ,"multiverseID":3015
+    }
+    ,{
+        "cardName":"Auriok Steelshaper"
+        ,"multiverseID":46081
+    }
+    ,{
+        "cardName":"Auriok Steelshaper"
+        ,"multiverseID":46081
+    }
+    ,{
+        "cardName":"Captain of the Watch"
+        ,"multiverseID":394354
+    }
+    ,{
+        "cardName":"Conqueror's Pledge"
+        ,"multiverseID":195626
+    }
+    ,{
+        "cardName":"Daru Warchief"
+        ,"multiverseID":43625
+    }
+    ,{
+        "cardName":"Daru Warchief"
+        ,"multiverseID":43625
+    }
+    ,{
+        "cardName":"Humility"
+        ,"multiverseID":4881
+    }
+    ,{
+        "cardName":"Balance"
+        ,"multiverseID":529
+    }
+    ,{
+        "cardName":"Akroma's Memorial"
+        ,"multiverseID":136150
+    }]
+}
